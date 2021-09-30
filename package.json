@@ -18,6 +18,13 @@
     "@angular/platform-browser": "~12.2.0",
     "@angular/platform-browser-dynamic": "~12.2.0",
     "@angular/router": "~12.2.0",
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "express-rate-limit": "^5.3.0",
+    "http": "0.0.1-security",
+    "memory-cache": "^0.2.0",
+    "morgan": "^1.10.0",
+    "path": "^0.12.7",
     "rxjs": "~6.6.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
